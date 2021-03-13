@@ -1,0 +1,13 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "Munanwosu1",
+    "database": "munaca3project",
+    "entities": [
+    "dist/**/*.entity{.ts,.js}"
+    ],
+    "synchronize": true
+    }
+    
